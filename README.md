@@ -7,4 +7,5 @@ Solicitud Put -  Actualizar datos nave
 ![image](https://github.com/ChrisDL34/Registro-Naves-Backend-SpringBoot/assets/128629521/3b3c9deb-875a-4d6b-8785-89dd0eccce4d)
 Solicitud Delete - Borrar Nave
 ![image](https://github.com/ChrisDL34/Registro-Naves-Backend-SpringBoot/assets/128629521/145dc72e-f519-4a3f-a858-4d71eb8a411f)
+![image](https://github.com/ChrisDL34/Registro-Naves-Backend-SpringBoot/assets/128629521/a9def9cc-874c-4e80-b6fd-1f2e62dcc188)
 
